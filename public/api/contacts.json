@@ -1,0 +1,47 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "name": "Иван Иванов",
+            "tel": "89991111111",
+            "email": "ivan@example.com"
+        },
+        {
+            "id": "2",
+            "name": "Петр Петров",
+            "tel": "89992222222",
+            "email": "petr@example.com"
+        },
+        {
+            "id": "3",
+            "name": "Анна Смирнова",
+            "tel": "89993333333",
+            "email": "anna@example.com"
+        },
+        {
+            "id": "4",
+            "name": "Мария Кузнецова",
+            "tel": "89994444444",
+            "email": "maria@example.com"
+        },
+        {
+            "id": "5",
+            "name": "Дмитрий Орлов",
+            "tel": "89995555555",
+            "email": "dmitry@example.com"
+        },
+        {
+            "id": "6",
+            "name": "Ольга Соколова",
+            "tel": "89996666666",
+            "email": "olga@example.com"
+        },
+        {
+            "id": "7",
+            "name": "Алексей Морозов",
+            "tel": "89997777777",
+            "email": "alexey@example.com"
+        }
+    ]
+}
+  
