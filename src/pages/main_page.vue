@@ -65,7 +65,6 @@ const getContact = () => {
     axios
         .get('/api/contacts.json')
         .then((response) => {
-            console.log(response.data, 'getContact API')
             contact_list.push(...response.data.contacts)
             filtered_contacts.value = contact_list
             localStorage.setItem('contacts', JSON.stringify(contact_list))
